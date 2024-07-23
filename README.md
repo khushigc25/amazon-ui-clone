@@ -1,4 +1,4 @@
-# amazon-clone
+# amazon-ui-clone
 <br>
 This project is a clone of the Amazon homepage, created using HTML and CSS. 
 <br>
