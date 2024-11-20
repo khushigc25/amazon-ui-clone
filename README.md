@@ -13,4 +13,4 @@ The project includes responsive design elements to ensure compatibility across v
 </ul>
 <hr>
 <h1>Link:</h1>
-<a href="https://khushigc25.github.io/amazon-clone/">Amazon Clone</a>
+<a href="https://amazon-ui-clone-k.netlify.app/">Amazon Clone</a>
